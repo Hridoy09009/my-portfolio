@@ -14,8 +14,8 @@ export const fr = {
 
     hero: {
         greeting: '👋 Bonjour, je suis',
-        name: 'El Mehdi',
-        lastName: 'Bekkous',
+        name: 'Hridoy Hasan',
+        lastName: 'Web Developer',
         subtitle: 'Développeur Web Full-Stack spécialisé dans la création d\'expériences numériques exceptionnelles avec',
         subtitleHighlight: 'Next.js',
         subtitleEnd: '& les technologies modernes.',
@@ -94,10 +94,10 @@ export const fr = {
         title: 'Ce que Disent les Clients',
         description: 'Retours de personnes avec lesquelles j\'ai eu le plaisir de travailler.',
         items: [
-            { content: 'El Mehdi a livré une application web exceptionnelle qui a dépassé nos attentes. Son attention aux détails et sa capacité à traduire notre vision en réalité étaient remarquables.' },
-            { content: 'Travailler avec El Mehdi a changé la donne pour notre projet. Son expertise en Next.js et technologies web modernes a abouti à une application ultra-rapide et magnifique.' },
-            { content: 'Le tableau de bord qu\'El Mehdi a construit pour nous a transformé notre gestion des données. Code propre, excellentes performances et design pixel-perfect. Hautement recommandé !' },
-            { content: 'El Mehdi est un talent rare qui combine de solides compétences techniques avec un œil pour le design. Il a livré notre projet dans les délais et les résultats parlent d\'eux-mêmes.' },
+            { content: 'Hridoy Hasan a livré une application web exceptionnelle qui a dépassé nos attentes. Son attention aux détails et sa capacité à traduire notre vision en réalité étaient remarquables.' },
+            { content: 'Travailler avec Hridoy Hasan a changé la donne pour notre projet. Son expertise en Next.js et technologies web modernes a abouti à une application ultra-rapide et magnifique.' },
+            { content: 'Le tableau de bord qu\'Hridoy Hasan a construit pour nous a transformé notre gestion des données. Code propre, excellentes performances et design pixel-perfect. Hautement recommandé !' },
+            { content: 'Hridoy Hasan est un talent rare qui combine de solides compétences techniques avec un œil pour le design. Il a livré notre projet dans les délais et les résultats parlent d\'eux-mêmes.' },
             { content: "Le niveau de créativité et de compétence technique est inégalé. Ils ont pris nos idées vagues et construit une expérience utilisateur vraiment moderne que nos clients adorent." },
             { content: "De la consultation initiale au déploiement final, la communication a été excellente. Un partenaire très fiable pour une architecture frontend complexe." },
             { content: "L'optimisation des performances était notre plus grand obstacle, et ils l'ont résolu en un temps record tout en élevant notre langage de conception." },
@@ -146,7 +146,7 @@ export const fr = {
     },
 
     footer: {
-        brand: 'El Mehdi Bekkous',
+        brand: 'Hridoy Hasan',
         brandDesc: 'Développeur Web Full-Stack spécialisé en Next.js et technologies web modernes. Créer des expériences numériques qui comptent.',
         quickLinks: 'Liens Rapides',
         services: 'Services',
@@ -154,7 +154,7 @@ export const fr = {
         uiux: 'Design UI/UX',
         apiDev: 'Développement API',
         consulting: 'Consulting',
-        copyright: '© {year} El Mehdi Bekkous. Fait avec',
+        copyright: '© {year} Hridoy Hasan. Fait avec',
         backToTop: 'Retour en haut',
         ctaLine1: 'Prêt à construire',
         ctaLine2: 'quelque chose d\'amazing ?',

@@ -100,10 +100,10 @@ export const en = {
         title: 'What Clients Say',
         description: "Feedback from people I've had the pleasure of working with.",
         items: [
-            { content: 'El Mehdi delivered an exceptional web application that exceeded our expectations. His attention to detail and ability to translate our vision into reality was outstanding.' },
-            { content: 'Working with El Mehdi was a game-changer for our project. His expertise in Next.js and modern web technologies resulted in a blazing-fast, beautiful application.' },
-            { content: 'The dashboard El Mehdi built for us transformed how we handle data. Clean code, great performance, and pixel-perfect design. Highly recommended!' },
-            { content: 'El Mehdi is a rare talent who combines strong technical skills with an eye for design. He delivered our project on time and the results speak for themselves.' },
+            { content: 'Hridoy Hasan delivered an exceptional web application that exceeded our expectations. His attention to detail and ability to translate our vision into reality was outstanding.' },
+            { content: 'Working with Hridoy Hasan was a game-changer for our project. His expertise in Next.js and modern web technologies resulted in a blazing-fast, beautiful application.' },
+            { content: 'The dashboard Hridoy Hasan built for us transformed how we handle data. Clean code, great performance, and pixel-perfect design. Highly recommended!' },
+            { content: 'Hridoy Hasan is a rare talent who combines strong technical skills with an eye for design. He delivered our project on time and the results speak for themselves.' },
             { content: "The level of creativity and technical skill is unmatched. They took our vague ideas and built a truly modern user experience that our clients love." },
             { content: "From the initial consultation to the final deployment, the communication was stellar. A highly reliable partner for complex frontend architecture." },
             { content: "Performance optimization was our biggest bottleneck, and they resolved it in record time while also elevating our design language." },
@@ -154,7 +154,7 @@ export const en = {
 
     // Footer
     footer: {
-        brand: 'El Mehdi Bekkous',
+        brand: 'Hridoy Hasan',
         brandDesc: 'Full-Stack Web Developer specializing in Next.js and modern web technologies. Building digital experiences that matter.',
         quickLinks: 'Quick Links',
         services: 'Services',
@@ -162,7 +162,7 @@ export const en = {
         uiux: 'UI/UX Design',
         apiDev: 'API Development',
         consulting: 'Consulting',
-        copyright: '© {year} El Mehdi Bekkous. Made with',
+        copyright: '© {year} Hridoy Hasan. Made with',
         backToTop: 'Back to top',
         ctaLine1: 'Ready to build',
         ctaLine2: 'something amazing?',
@@ -173,7 +173,7 @@ export const en = {
 
     // Preloader
     preloader: {
-        loading: 'Loading experience...',
+        loading: 'Hridoy is preparing something cool...',
     },
 
     // Preferences popup
