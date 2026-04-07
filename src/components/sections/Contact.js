@@ -397,7 +397,7 @@ export default function Contact() {
   };
 
   const copyEmail = () => {
-    navigator.clipboard.writeText('mehdi@example.com').catch(() => {});
+    navigator.clipboard.writeText('ridoy...@gmail.com').catch(() => {});
     setCopiedEmail(true);
     setTimeout(() => setCopiedEmail(false), 2000);
   };
@@ -457,7 +457,7 @@ export default function Contact() {
                 </InfoCardIcon>
                 <InfoCardContent>
                   <InfoCardLabel>{t('contact.location')}</InfoCardLabel>
-                  <InfoCardValue>{t('contact.locationValue') || 'Morocco, MA'}</InfoCardValue>
+                  <InfoCardValue>{t('contact.locationValue') || 'Bangladesh'}</InfoCardValue>
                 </InfoCardContent>
               </InfoCard>
             </ContactInfoCards>
