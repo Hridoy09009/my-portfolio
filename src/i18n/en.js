@@ -16,8 +16,8 @@ export const en = {
     // Hero
     hero: {
         greeting: "👋 Hello, I'm",
-        name: 'El Mehdi',
-        lastName: 'Bekkous',
+        name: 'Hridoy Hasan',
+        lastName: 'Web Developer',
         subtitle: 'Full-Stack Web Developer specializing in building exceptional digital experiences with',
         subtitleHighlight: 'Next.js',
         subtitleEnd: '& modern technologies.',
