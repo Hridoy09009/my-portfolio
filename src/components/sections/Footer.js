@@ -330,7 +330,7 @@ export default function Footer() {
             </CtaBtn>
           </MagneticButton>
           <MagneticButton>
-            <CtaBtnOutline href="https://github.com/ElMehdiBekkous" target="_blank">
+            <CtaBtnOutline href="https://github.com/Hridoy09009/my-portfolio" target="_blank">
               <FaGithub /> GitHub
             </CtaBtnOutline>
           </MagneticButton>
@@ -357,9 +357,9 @@ export default function Footer() {
             </BrandRow>
             <BrandDesc>{t('footer.brandDesc')}</BrandDesc>
             <FooterSocials>
-              <SocialBtn href="https://github.com/ElMehdiBekkous" target="_blank" title="GitHub"><FaGithub /></SocialBtn>
-              <SocialBtn href="https://www.linkedin.com/in/el-mehdi-bekkous/" target="_blank" title="LinkedIn"><FaLinkedinIn /></SocialBtn>
-              <SocialBtn href="https://www.instagram.com/mehdibekkousse/" target="_blank" title="Instagram"><FaInstagram /></SocialBtn>
+              <SocialBtn href="https://github.com/Hridoy09009/my-portfolio" target="_blank" title="GitHub"><FaGithub /></SocialBtn>
+              <SocialBtn href="#" target="_blank" title="LinkedIn"><FaLinkedinIn /></SocialBtn>
+              <SocialBtn href="#" target="_blank" title="Instagram"><FaInstagram /></SocialBtn>
             </FooterSocials>
           </BrandCol>
 

@@ -464,13 +464,13 @@ export default function Contact() {
 
             <SocialsLabel>{t('contact.findMeOn') || 'Find me on'}</SocialsLabel>
             <SocialsRow>
-              <SocialBtn href="https://github.com/ElMehdiBekkous" target="_blank" title="GitHub">
+              <SocialBtn href="https://github.com/Hridoy09009/my-portfolio" target="_blank" title="GitHub">
                 <FaGithub />
               </SocialBtn>
-              <SocialBtn href="https://www.linkedin.com/in/el-mehdi-bekkous/" target="_blank" title="LinkedIn">
+              <SocialBtn href="#" target="_blank" title="LinkedIn">
                 <FaLinkedinIn />
               </SocialBtn>
-              <SocialBtn href="https://www.instagram.com/mehdibekkousse/" target="_blank" title="Instagram">
+              <SocialBtn href="#" target="_blank" title="Instagram">
                 <FaInstagram />
               </SocialBtn>
             </SocialsRow>
